@@ -7,6 +7,8 @@ namespace prj_primeiro_programa
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
