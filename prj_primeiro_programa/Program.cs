@@ -8,6 +8,8 @@ namespace prj_primeiro_programa
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste 1 2 3");
+
 
         }
     }
